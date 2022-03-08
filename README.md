@@ -1,3 +1,3 @@
-# laravel
+# laravel&vue project
 
 # comming soon..
